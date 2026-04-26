@@ -1,2 +1,2 @@
 # Random Stats
- A Wensite With Random Stats
+ A Website With Random Stats
